@@ -1,4 +1,4 @@
-#!/usr/bin/perl;
+#!/usr/bin/perl
 
 # Escriba un programa de Perl que pida nombre de usuario y luego, dominio. El programa
 # debera imprimir con el "@" en medio. Como restriccion, no se podra usar operadores de
